@@ -1,4 +1,4 @@
-Hey guys. to use this macro, you must face north. and be in the middle of the spawnpoint.
+Hey guys. to use this macro, you must have your camera face the top of your head. and be in the middle of the spawnpoint.
 if not, the macro will not work. i suggest using the new ones.
 still finding bugs with my macros :) some suggestions would be nice. leave them in my discord server.
 https://discord.gg/J8bcWys6JV
